@@ -1,6 +1,6 @@
 # gabeshores.com
 
-My personal portfolio. It opens in a low poly room with a CRT on the desk, then the camera dives through the glass and the site boots up.
+My personal portfolio.
 
 [![Walkthrough of gabeshores.com](media/demo.gif)](https://gabeshores.com)
 
